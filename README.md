@@ -1,6 +1,6 @@
 # 01 - Simple Neural Network
 
-We will implement a simple neural network from the scratch in python and will learn about the follwoing:
+We will implement a simple neural network from the scratch in python and will learn about the following:
 
 * Artificial Neurons and Weights (Synapses)
 * Wide and Deep Neural Networks
